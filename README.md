@@ -1,2 +1,2 @@
 # Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control
-The LabVIEW .vi and .fs controller files part of the puplished paper on the IISA 2023 conference with title "Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control".
+The LabVIEW .vi and .fs controller files part of the puplished on The Fourteenth International Conference on Information, Intelligence, Systems and Applications (IISA 2023), University of Thessaly, Volos, Greece 10-12 July 2023 conference with the title "Energy Efficient Lighting Systems in Buildings Using Fuzzy Logic Control".
